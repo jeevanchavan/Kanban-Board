@@ -3,6 +3,10 @@
 A simple **Kanban Board** built using **HTML, CSS, and Vanilla JavaScript**.  
 You can add tasks, drag them between columns, delete tasks, and your data is saved in the browser.
 
+🔗 Live Demo:
+https://jeevanchavan.github.io/Kanban-Board/
+
+
 ---
 
 ## 🚀 Features
@@ -87,3 +91,4 @@ Used for task organization and storage.
 ### 7️⃣ Template Literals
 ```js
 `<h2>${title}</h2>`
+
