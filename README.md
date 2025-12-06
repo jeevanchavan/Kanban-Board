@@ -6,6 +6,10 @@ You can add tasks, drag them between columns, delete tasks, and your data is sav
 🔗 Live Demo:
 https://jeevanchavan.github.io/Kanban-Board/
 
+## Screenshot
+<img width="1888" height="948" alt="Screenshot 2025-12-06 222026" src="https://github.com/user-attachments/assets/aa6ebfa9-ca73-46d5-8213-ebf8878ae03c" />
+
+
 
 ---
 
@@ -91,4 +95,6 @@ Used for task organization and storage.
 ### 7️⃣ Template Literals
 ```js
 `<h2>${title}</h2>`
+
+
 
