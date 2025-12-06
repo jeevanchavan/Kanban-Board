@@ -96,6 +96,7 @@ section .board{
 }
 
 section .task-column{
+    width: 100%;
     display: flex;
     background-color: var(--bg-task-column-color);
     flex-grow: 1;
